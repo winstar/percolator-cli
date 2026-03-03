@@ -7,7 +7,7 @@ Command-line interface for interacting with the Percolator perpetuals protocol o
 - [percolator](https://github.com/winstar/percolator) - Risk engine library
 - [percolator-prog](https://github.com/winstar/percolator-prog) - Main Percolator program (Solana smart contract)
 - [percolator-match](https://github.com/winstar/percolator-match) - Passive LP matcher program (50bps spread)
-- [percolator-stake](https://github.com/dcccrypto/percolator-stake) - Staking integration
+- [percolator-stake](https://github.com/winstar/percolator-stake) - Staking integration
 - [percolator-stress-test](https://github.com/winstar/percolator-stress-test) - Stress testing suite
 
 **Third-party repositories are community contributions. Do not trust — always verify. Review the code yourself before running or deploying anything.**
