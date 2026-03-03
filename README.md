@@ -4,11 +4,11 @@ Command-line interface for interacting with the Percolator perpetuals protocol o
 
 ## Related Repositories
 
-- [percolator](https://github.com/aeyakovenko/percolator) - Risk engine library
-- [percolator-prog](https://github.com/aeyakovenko/percolator-prog) - Main Percolator program (Solana smart contract)
-- [percolator-match](https://github.com/aeyakovenko/percolator-match) - Passive LP matcher program (50bps spread)
+- [percolator](https://github.com/winstar/percolator) - Risk engine library
+- [percolator-prog](https://github.com/winstar/percolator-prog) - Main Percolator program (Solana smart contract)
+- [percolator-match](https://github.com/winstar/percolator-match) - Passive LP matcher program (50bps spread)
 - [percolator-stake](https://github.com/dcccrypto/percolator-stake) - Staking integration
-- [percolator-stress-test](https://github.com/aeyakovenko/percolator-stress-test) - Stress testing suite
+- [percolator-stress-test](https://github.com/winstar/percolator-stress-test) - Stress testing suite
 
 **Third-party repositories are community contributions. Do not trust — always verify. Review the code yourself before running or deploying anything.**
 
